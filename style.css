@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h1 {
+    font-size: 28px;
+    color: #333;
+}
+
+#readMore {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+#readMore:hover {
+    color: #0056b3;
+}
